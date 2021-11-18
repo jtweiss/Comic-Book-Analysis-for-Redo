@@ -1,7 +1,7 @@
 # comic-book-analysis-for-Redo-Inc
 
-##Overview
-Project where I priced and analyzed a comic book collection  for Redo Inc. Estate Sales.
+## Overview
+Project where I priced and analyzed a comic book collection for Redo Inc. Estate Sales.
  
 This project contains the following elements:
 0. A python based web-scraping script to scrape in-cart elements from www.comicbookshop.com
